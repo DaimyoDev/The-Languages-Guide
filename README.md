@@ -63,22 +63,6 @@ Once the application is running, you can navigate to the different sections for 
 - **Grammar:** Browse through the structured grammar rules.
 - **Pronunciation:** Explore the phonetic guides and listen to audio pronunciations.
 
-## Technology Stack
-
-This project is built with the following technologies:
-
-- **Frontend:** [React](https://reactjs.org/), [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-- **Backend:** [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
-- **Database:** [MongoDB](https://www.mongodb.com/) (or your choice of database)
-- **Package Manager:** [npm](https://www.npmjs.com/)
-- **Version Control:** [Git](https://git-scm.com/)
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -87,10 +71,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your.email@example.com
-
-Project Link: [https://github.com/your_username/language-learning-hub](https://github.com/your_username/language-learning-hub)
+Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more information.
