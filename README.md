@@ -11,10 +11,7 @@ Language Learning Hub is a web-based platform designed to be a comprehensive res
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
